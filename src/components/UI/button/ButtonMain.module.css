@@ -1,0 +1,17 @@
+.btnMain{
+    text-decoration: none;
+    padding: 13px 30px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    background-image: linear-gradient(to right, #ef9eae 0%, #8d3840 51%, #ef9eae 100%);
+    background-size: 200% auto;
+    transition: .5s;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin: 5px 0 5px 10px;
+}
+
+.btnMain:hover{
+    background-position: right center;
+}
